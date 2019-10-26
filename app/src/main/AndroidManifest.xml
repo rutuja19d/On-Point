@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Team19.RutujaHrithikSuparna.onpoint">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.StartPage"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden|adjustPan"
+            android:theme="@style/AppTheme">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.SearchPage"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.DefinitionFinal"
+            android:label="@string/title_activity_definition_final"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.QuotesFinal"
+            android:label="@string/title_activity_quotes_final"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.ReutersFinal"
+            android:label="@string/title_activity_reuters_final"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.WikiFinal"
+            android:label="@string/title_activity_wiki_final"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.YoutubeFinal"
+            android:label="@string/title_activity_youtube_final"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.HinduMain"
+            android:label="@string/title_activity_hindu_main"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.Quora2"
+            android:label="@string/title_activity_quora2"
+            android:theme="@style/AppTheme" />
+
+
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.Notes"
+            android:label="NotePad"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+        </activity>
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.NewNote"
+            android:label="New Note"
+            android:theme="@style/AppTheme.AppBarOverlay">
+        </activity>
+        <activity
+            android:name="com.Team19.RutujaHrithikSuparna.onpoint.ENote"
+            android:label="Old Note"
+            android:theme="@style/AppTheme.AppBarOverlay">
+        </activity>
+
+    </application>
+
+</manifest>

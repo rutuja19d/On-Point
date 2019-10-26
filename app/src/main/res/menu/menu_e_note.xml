@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools" tools:context="com.Team19.RutujaHrithikSuparna.onpoint">
+
+
+    <item android:id="@+id/action_saveNote2"
+        android:title="save"
+        android:icon="@drawable/ic_action_save"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_discardNote2"
+        android:title="delete"
+        android:icon="@drawable/ic_action_trash"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>

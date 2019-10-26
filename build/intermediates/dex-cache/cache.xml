@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\e2806759ee02789036bf32a825d16af80dea408f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\classes_0efeaed08607e3726ce812818956582c3d0d937d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\6668e2b87bdeaff4f34e08427e24a563c94a003e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\classes_c51bd154465c0830039b7cfbdc21ce9966461381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_804f5fa6bbe4e42eb278ce2bfaf0a9855144a869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\03a70fff5789c2c87670e44cd0c59cd61a5d203b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\classes_4ce9f1e6eaa81a210613aee3bd4316d278ee9ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\fbb3e77de3e45e2741356bd7250fe056c9922d60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\classes_77d0fa235ba5f07af1d27e34a3b03c424a6a1f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\24d64a74e5399184cdcb396bfb05756c469a81d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\classes_81e48b50fb1e232510cfb8b9f775d1c26e450df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\03a70fff5789c2c87670e44cd0c59cd61a5d203b\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_545eabb8e0663335c07dc3a19a158c36c430332a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\3da5ef624f4bbb9b25fb90a2bb173e5d23f33e62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\classes_3ecbb18af01386a208da56b25aed93f98500e2a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\.android\build-cache\eb21f1df1fb7bc3f4820eb973c58e84379cfc0bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\classes_8f91e4bd7a991c04504fd2ba779349c52fbe08f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sonu shahuji\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\OnPoint-Hackathon-master\OnPoint-Hackathon-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d2248101c803afd8de976f2228b6baab40114a0f.jar" />
+    </item>
+
+</items>

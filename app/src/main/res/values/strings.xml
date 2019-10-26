@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OnPoint</string>
+    <string name="title_activity_notepad">notepad</string>
+    <string name="title_activity_definition_final">DefinitionFinal</string>
+    <string name="title_activity_quote_final">QuoteFinal</string>
+    <string name="title_activity_hindu_final">hinduFinal</string>
+    <string name="title_activity_quotes_final">QuotesFinal</string>
+    <string name="title_activity_reuters_final">ReutersFinal</string>
+    <string name="title_activity_wiki_final">WikiFinal</string>
+    <string name="title_activity_quora_final">QuoraFinal</string>
+    <string name="title_activity_youtube_final">YoutubeFinal</string>
+    <string name="title_activity_hindu_main">HinduMain</string>
+    <string name="title_activity_quora2">Quora2</string>
+    <string name="title_activity_example">Example</string>
+</resources>
